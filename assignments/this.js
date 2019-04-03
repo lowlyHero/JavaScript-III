@@ -3,11 +3,11 @@
  *
  * 1. Window/Global: 'this' refers to the global window object. 
  
- * 2. Implicit: 
+ * 2. Implicit: The object before the "dot" when calling a function is an example of this.
  
- * 3. New:
+ * 3. New: Lets you create new objects based off of a constructor template 
  
- * 4. Explicit:
+ * 4. Explicit: Wherever a call, bind, or apply method is used.
  
  *
  * write out a code example of each explanation above
